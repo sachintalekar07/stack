@@ -6,6 +6,32 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+   "keywords": [
+    "stack",
+    "data structure",
+    "javascript",
+    "npm",
+    "algorithm",
+    "utility",
+    "programming",
+    "developer",
+    "library",
+    "node.js",
+    "open source",
+    "data",
+    "code",
+    "structure",
+    "utility",
+    "module",
+     "es6",
+     "es7",
+     "es8",
+     "es9",
+     "es10",
+     "es11",
+     "es12",
+     "functional approach"
+  ],
   "author": "Sachin Talekar <sachin.talekar07@gmail.com>",
   "license": "MIT",
   "repository": {
