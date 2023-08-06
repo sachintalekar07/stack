@@ -1,7 +1,7 @@
 # Stack Data Structure
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/stack)](https://github.com/yourusername/stack/blob/main/LICENSE)
-[![npm version](https://img.shields.io/npm/v/your-stack-module.svg)](https://www.npmjs.com/package/your-stack-module)
+[![GitHub license](https://img.shields.io/github/license/sachintalekar07/stack)](https://github.com/sachintalekar07/stack/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/@sachintalekar07/stack.svg)](https://www.npmjs.com/package/@sachintalekar07/stack
 
 ## Description
 
