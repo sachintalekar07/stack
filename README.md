@@ -33,16 +33,17 @@ console.log(stack.peek()); // Output: 7
 stack.pop();
 console.log(stack.size()); // Output: 2
 ```
+## API
 
-API
 The Stack module provides the following methods:
 
-`push(item): Add an item to the top of the stack.
-`pop(): Remove and return the top item from the stack.
-`peek(): Return the top item without removing it from the stack.
-`isEmpty(): Check if the stack is empty (returns true or false).
-`size(): Get the number of items in the stack.
-`clear(): Remove all items from the stack.
+- `push(item)`: Add an item to the top of the stack.
+- `pop()`: Remove and return the top item from the stack.
+- `peek()`: Return the top item without removing it from the stack.
+- `isEmpty()`: Check if the stack is empty (returns true or false).
+- `size()`: Get the number of items in the stack.
+- `clear()`: Remove all items from the stack.
+
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
