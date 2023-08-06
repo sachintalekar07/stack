@@ -1,6 +1,6 @@
 {
   "name": "@es6/stack",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "A stack data structure implementation with various methods.",
   "main": "index.js",
   "scripts": {
